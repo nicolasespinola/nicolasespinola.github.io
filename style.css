@@ -1,0 +1,33 @@
+.Linked1 {
+    color:rgb(41, 41, 41);
+}
+.Linked1:first-child {
+    color:rgb(41, 41, 41);
+    font-weight: 400;
+}
+.Linked2 {
+    color:rgb(65, 65, 65);
+}
+
+.imag {
+    color:rgb(27, 27, 27);
+}
+
+img {
+   filter:contrast(-30); 
+}
+img:hover {
+    filter:contrast(1.2); 
+ }
+#im {
+    font-family: Arial;
+    font-weight: bold;
+}
+ul {
+    font-family: tahoma;
+    font-size: smaller;
+}
+ol {
+    font-family: tahoma;
+    font-size: smaller;
+}
